@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
   
 # Estudos de TypeScript
   
@@ -27,6 +27,7 @@
 
   
   
+  
 <br>
 
 ### 💻 Results
@@ -35,4 +36,3 @@
 
 
 </div>
-
