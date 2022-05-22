@@ -2,7 +2,7 @@
   
 # Estudos de TypeScript
   
-<h4>Me aprofundando em React e começando os estudos em TypeScript. Criando um pequeno joguinho para movimentar um personagem</h4>
+<h4>Me aprofundando em React e começando os estudos em TypeScript. Criando um pequeno joguinho para movimentar dois personagens dentro de um labirinto</h4>
   
 <p ><img  src="https://wallpaperaccess.com/full/7990027.png" width="60%" alt="imagem" >
   
@@ -32,7 +32,7 @@
 
 ### 💻 Results
 
-<a href="https://rickferreira.github.io/React-e-TypeScript/">-----------------Vizualizar como ficou o site-----------------</a>
 
+<img src="https://cdn.discordapp.com/attachments/459871999943114762/977913626268672070/tela_2.png" alt="imagem" width="50%">
 
 </div>
