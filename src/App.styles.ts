@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    background-color: #242840;
+    background-color: #24282F;
     min-height: 100vh;
     color: #FFF;
 `;
@@ -9,7 +9,7 @@ export const Container = styled.div`
 export const Map = styled.div`
     width: 480px;
     height: 480px;
-    background-image: url('https://cdn.discordapp.com/attachments/459871999943114762/977313148656836679/labirinto.png');
+    background-image: url('/assets/map.png');
     background-position: left top;
     background-size: 100%;
 `;

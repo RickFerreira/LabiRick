@@ -1,13 +1,14 @@
 import { useEffect } from 'react';
 import * as C from './App.styles';
 import { Character } from './components/Character';
-import { useCharacter } from './hooks/useCharacter'
+import { useCharacter } from './hooks/useCharacter';
 
 const App = () => {
-  const char = useCharacter();
+  const char = useCharacter('Bonieky');
+  const char2 = useCharacter('Pedro');
 
-  useEffect(() =>{
-    window.addEventListener('keydown', handleKeyDown)
+  useEffect(() => {
+    window.addEventListener('keydown', handleKeyDown);
   }, []);
 
   const handleKeyDown = (e: KeyboardEvent) => {
@@ -33,8 +34,9 @@ const App = () => {
 
   return (
     <C.Container>
-       <C.Map>
-         <Character x={char.x} y={char.y}/>
+      <C.Map>
+        <Character x={char.x} y={char.y} side={char.side} name={char.name} />
+        <Character x={char2.x} y={char2.y} side={char2.side} name={char2.name} />
       </C.Map>
     </C.Container>
   );
