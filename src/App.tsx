@@ -4,8 +4,8 @@ import { Character } from './components/Character';
 import { useCharacter } from './hooks/useCharacter';
 
 const App = () => {
-  const char = useCharacter('Rick');
-  const char2 = useCharacter('Paty');
+  const char = useCharacter('Paty');
+  const char2 = useCharacter('Rick');
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
