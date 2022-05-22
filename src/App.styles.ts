@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    background-color: #24282F;
+    background-image: linear-gradient(to top, #705040 0%, #101030 100%);
     min-height: 100vh;
     color: #FFF;
 `;

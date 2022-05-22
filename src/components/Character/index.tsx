@@ -9,7 +9,7 @@ type Props = {
 }
 
 export const Character = ({x, y, side, name}: Props) => {
-    const size = 30;
+    const size = 24;
     const sides = {
         down: 0,
         left: -30,
