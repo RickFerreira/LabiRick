@@ -2,7 +2,7 @@
   
 # Estudos de TypeScript
   
-<h4>Me aprofundando em React e começando os estudos em TypeScript. Criando um pequeno rpg</h4>
+<h4>Me aprofundando em React e começando os estudos em TypeScript. Criando um pequeno joguinho para movimentar um personagem</h4>
   
 <p ><img  src="https://wallpaperaccess.com/full/7990027.png" width="60%" alt="imagem" >
   
