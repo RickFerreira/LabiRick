@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/RickFerreira">
         <img src="https://avatars.githubusercontent.com/u/40415279?v=4" width="100px;" alt="Avatar Rick"/><br>
         <sub>
           <b>Autor: Richard Ferreira</b>
@@ -51,6 +51,6 @@
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#Estudos-de-TypeScript)<br>
+[☝🏽 Voltar ao topo](#Estudos-de-TypeScript)<br>
 
 </div>
