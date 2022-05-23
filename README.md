@@ -35,4 +35,22 @@
 
 <img src="https://cdn.discordapp.com/attachments/459871999943114762/977913626268672070/tela_2.png" alt="imagem" width="50%">
 
+<br><br>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/40415279?v=4" width="100px;" alt="Avatar Rick"/><br>
+        <sub>
+          <b>Autor: Richard Ferreira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+[⬆ Voltar ao topo](#Estudos-de-TypeScript)<br>
+
 </div>
