@@ -32,7 +32,10 @@
 
 ### 💻 Results
 
-
+<a href="https://labi-rick-rickferreira.vercel.app/">--------------Vizualizar como ficou o jogo--------------</a>
+  
+<br>
+  
 <img src="https://cdn.discordapp.com/attachments/459871999943114762/977913626268672070/tela_2.png" alt="imagem" width="50%">
 
 <br><br>
